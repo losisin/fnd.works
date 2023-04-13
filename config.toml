@@ -9,7 +9,7 @@ title = 'fnd.works'
   ProfilePicture = "images/profile.jpeg"
   GithubID = "losisin"
   LinkedInID = "losisin"
-  MediumID = "aleksandarstojanov"
+  # MediumID = "aleksandarstojanov"
   Email = "me@fnd.works"
 # [menu]
 #   [[menu.header]]
