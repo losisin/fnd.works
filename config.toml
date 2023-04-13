@@ -1,23 +1,22 @@
+baseURL = 'https://fnd.works/'
+languageCode = 'en-us'
+title = 'fnd.works'
 [params]
   Name = "fnd.works"
   HeaderUsername = "guest"
   HeaderHostname = "fnd.works"
-  About = "info_about_you"
-  ProfilePicture = "profile_picture_url"
-  GithubID = "your_github"
-  LinkedInID = "your_linkedin"
-  MediumID = "your_medium_id"
+  About = "Hi I'm Aleksandar Stojanov - DevOps/Cloud Engineer at Polar Cape Consulting and this is my website."
+  ProfilePicture = "images/profile.jpeg"
+  GithubID = "losisin"
+  LinkedInID = "losisin"
+  MediumID = "aleksandarstojanov"
   Email = "me@fnd.works"
-[menu]
-  [[menu.header]]
-    name = "home"
-    weight = 0
-    url = "/"
-  [[menu.header]]
-    name = "about"
-    weight = 0
-    url = "~//about"
-  [[menu.header]]
-    name = "~/blog"
-    weight = 0
-    url = "/blog"
+# [menu]
+#   [[menu.header]]
+#     name = "about"
+#     weight = 1
+#     url = "about"
+#   [[menu.header]]
+#     name = "blog"
+#     weight = 2
+#     url = "blog"
