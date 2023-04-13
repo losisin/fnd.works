@@ -1,0 +1,23 @@
+[params]
+  Name = "fnd.works"
+  HeaderUsername = "guest"
+  HeaderHostname = "fnd.works"
+  About = "info_about_you"
+  ProfilePicture = "profile_picture_url"
+  GithubID = "your_github"
+  LinkedInID = "your_linkedin"
+  MediumID = "your_medium_id"
+  Email = "me@fnd.works"
+[menu]
+  [[menu.header]]
+    name = "home"
+    weight = 0
+    url = "/"
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "~//about"
+  [[menu.header]]
+    name = "~/blog"
+    weight = 0
+    url = "/blog"
